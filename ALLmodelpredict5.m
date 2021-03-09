@@ -44,9 +44,9 @@ BagBooMdl_6 = S.BagBooMdl_6;
 Disp(:,4) = predict(BagBooMdl_6,X_6);
 
 %% bagging and boosting 21 features
-S = load('./five_feat/models/BagBooMdl_21.mat');
-BagBooMdl_21 = S.BagBooMdl_21;
-Disp(:,5) = predict(BagBooMdl_21,X_21);
+%S = load('./five_feat/models/BagBooMdl_21.mat');
+%BagBooMdl_21 = S.BagBooMdl_21;
+%Disp(:,5) = predict(BagBooMdl_21,X_21);
 
 %% random forest with 6 features
 S = load('./five_feat/models/mdlrf6.mat');
@@ -54,9 +54,9 @@ mdlrf6 = S.mdlrf6;
 Disp(:,6) = predict(mdlrf6,X_6);
 
 %% random forest with 21 features
-S = load('./five_feat/models/mdlrf21.mat');
-mdlrf21 = S.mdlrf21;
-Disp(:,7) = predict(mdlrf21,X_21);
+%S = load('./five_feat/models/mdlrf21.mat');
+%mdlrf21 = S.mdlrf21;
+%Disp(:,7) = predict(mdlrf21,X_21);
 
 %% kernel with 6 features 
 S = load('./five_feat/models/KernMdl_6.mat');
