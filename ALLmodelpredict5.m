@@ -1,8 +1,8 @@
-function Disp = ALLmodelpredict5(X_6,X_21)
+function Disp = ALLmodelpredict5(X_5,X_21)
 % totally 19 models to predict
 
 %X_21 = all 21 features * no of data;
-%X_6 = (ky	Ts	Mw	PGV	Sa(1.3Ts) * no of data;
+%X_5 = (ky	Ts	Mw	PGV	Sa(1.3Ts) * no of data;
 
 
 
@@ -11,7 +11,7 @@ function Disp = ALLmodelpredict5(X_6,X_21)
 
 %%
 X_21 =table2array(X_21);
-X_6 =table2array(X_6);
+X_6 =table2array(X_5);
 
 %% GLM
 S = load('GLMmodel.mat');
