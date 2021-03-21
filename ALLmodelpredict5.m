@@ -5,8 +5,7 @@ function Disp = ALLmodelpredict5(X_6,X_21)
 %X_6 = (ky	Ts	Mw	PGV	Sa(1.3Ts) * no of data;
 
 
-%% BM2019 model
-Disp(:,20) =log(JM19(X_21));
+
 
 
 
