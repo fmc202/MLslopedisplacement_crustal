@@ -4,7 +4,7 @@
 ## How to use
 
 1. download all the files and put them in the same folder
-2. run the function ALLmodelpredict5.m
+2. run the function ALLmodelpredict5.m in MATLAB
 
 
 ## Input for ALLmodelpredict5
