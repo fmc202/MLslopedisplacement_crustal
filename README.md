@@ -19,6 +19,6 @@ if 21 features are not available, just comment out all the model code that requi
 
 ## Output for ALLmodelpredict5
 
-Disp: a N by 20 matrix, where Disp[:,1:19] corresponds to the prediction for the 19 models defined in the paper. Disp[20] is the BM19 model
+Disp: a N by 19 matrix, where Disp[:,1:19] corresponds to the prediction for the 19 models defined in the paper.
 
 
