@@ -5,7 +5,7 @@ function Disp = MLSD(X_5,X_21)
 %X_5 = (ky	Ts	Mw	PGV	Sa(1.3Ts) * no of data;
 
 
-
+addpath('./model_coef')  
 
 
 
