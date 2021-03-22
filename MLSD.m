@@ -1,4 +1,4 @@
-function Disp = ALLmodelpredict5(X_5,X_21)
+function Disp = MLSD(X_5,X_21)
 % totally 19 models to predict
 
 %X_21 = all 21 features * no of data;
