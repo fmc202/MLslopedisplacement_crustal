@@ -6,7 +6,7 @@ The MLSD.m file contains a function for slope displacement prediction. The model
 ## How to use
 
 1. Download the MLSD.m file and the model_coef folder
-2. Due to the maximum file size limit in Github, please also download the additional files from __ and put them in the model_coef folder
+2. Due to the maximum file size limit in Github, please also download the additional files from https://gatech.box.com/s/5fixxcvzzlsufv4090bps040k6n0e0hd and put them in the model_coef folder
 3. Run the function MLSD.m in MATLAB
 
 
