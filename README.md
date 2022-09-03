@@ -1,4 +1,4 @@
-# MLslopedisplacement
+# MLslopedisplacement for shallow crustal earthquakes
 
 The MLSD.m file contains a function for slope displacement prediction. The model_coef folder contains the coefficients for the ML models
 
